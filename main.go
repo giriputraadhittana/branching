@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Test")
 	fmt.Println("A")
 	fmt.Println("B")
+	fmt.Println("C")
 }
